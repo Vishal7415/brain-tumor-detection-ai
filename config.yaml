@@ -1,0 +1,11 @@
+data:
+  train_dir: data/processed/train
+  val_dir: data/processed/val
+  test_dir: data/processed/test
+
+training:
+  batch_size: 32
+  epochs: 20
+  lr: 0.0001
+  optimizer: adam
+  save_model: true
