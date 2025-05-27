@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+build/
+dist/
+.DS_Store
+.ipynb_checkpoints
+*.h5
+*.pt
+*.pth
+logs/
